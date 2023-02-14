@@ -1,5 +1,9 @@
-### Hi there 👋
-
+### Hi I'm Michael 👋
+- 🌱 I’m currently learning Rust
+- 💬 Ask me about
+  - Anything about JavaScript/TypeScript
+  - React
+  - Node
 <!--
 **chenzn1/chenzn1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Michael's GitHub stats](https://github-readme-stats-chenzn1.vercel.app/api?username=chenzn1&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
