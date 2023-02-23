@@ -1,9 +1,8 @@
 ### Hi I'm Michael 👋
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently learning everything
 - 💬 Ask me about
   - Anything about JavaScript/TypeScript
-  - React
-  - Node
+  - Database
 <!--
 **chenzn1/chenzn1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
